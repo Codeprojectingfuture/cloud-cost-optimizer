@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+boto3
+pandas
+scikit-learn
+celery
+python-dotenv
+jinja2
+reportlab
+python-multipart
+email-validator
